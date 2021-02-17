@@ -16,3 +16,11 @@ The last year I have been working on online stores on Woocommerce, and for the l
 
 ## Skills
 Git, JavaScript, React, PHP, WordPress, Tailwind, SASS, HTML, CSS, PYTHON, DJANGO
+
+## Code examples
+`const filterOptions = (options: OptionArray[]): OptionArray[] => {
+    return options.filter((option: OptionArray) => option.title.toLowerCase().includes(query.toLowerCase()))
+  }
+`
+## Experience
+At the moment I work as a junior front-end developer. Passed Vladilen Minin's courses on React, an online course from Otus on JavaScript. 
