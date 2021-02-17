@@ -1,0 +1,97 @@
+body {
+  font-family: "Inter";
+}
+.main {
+  display: flex;
+}
+.content {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+.wrapper {
+  width: 800px;
+}
+.title {
+  margin-top: 96px;
+  font-size: 64px;
+}
+.personal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 384px;
+  height: 100%;
+  box-shadow: 20px 0px 200px rgba(2, 13, 31, 0.04);
+}
+.avatar img {
+  width: 100%;
+}
+.avatar {
+  padding: 0;
+  margin: 0;
+}
+.name {
+  /* margin: 32px 0; */
+  text-align: center;
+  color: #020d1f;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 140%;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  padding: 0 32px 32px;
+  gap: 32px;
+}
+
+.info-block .info-title {
+  margin: 0;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 18px;
+}
+.info-block .info-content {
+  padding: 0;
+  margin: 0;
+  line-height: 140%;
+  list-style: none;
+  color: #4a5568;
+  font-size: 16px;
+}
+.info-content .link {
+  text-decoration: none;
+  color: #4a5568;
+}
+.info-content .link:hover {
+  text-decoration: none;
+  color: #426cb7;
+}
+.card {
+  display: flex;
+  margin-bottom: 32px;
+}
+.card-title {
+  color: #020d1f;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 32px;
+}
+.card i {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7b8aa0;
+  font-size: 20px;
+  margin-right: 16px;
+}
+.card-content {
+  font-size: 16px;
+  color: #4a5568;
+}
