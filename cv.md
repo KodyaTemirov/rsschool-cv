@@ -24,3 +24,9 @@ Git, JavaScript, React, PHP, WordPress, Tailwind, SASS, HTML, CSS, PYTHON, DJANG
 `
 ## Experience
 At the moment I work as a junior front-end developer. Passed Vladilen Minin's courses on React, an online course from Otus on JavaScript. 
+
+## Education
+I study at the University of Tashkent University of Information Technologies named after Muhammad al-Khwarizmi in the Samarkand branch 
+
+## Language
+English Beginner
